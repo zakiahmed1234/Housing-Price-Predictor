@@ -35,9 +35,6 @@ The dataset is publicly available [here](https://www.kaggle.com/datasets/dansbec
 - **Hyperparameter Tuning**: `RandomizedSearchCV` to optimize learning rate, max depth, subsample ratio, and number of estimators  
 - **Evaluation**: RMSE on test set
 
-**Test RMSE**: ~263,550 AUD  
-> Context: Mean house price ≈ 1,075,000 AUD → RMSE ≈ 25% of mean
-
 ---
 
 ## How to Run
