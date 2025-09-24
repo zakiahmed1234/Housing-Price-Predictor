@@ -39,13 +39,13 @@ The dataset is publicly available [here](https://www.kaggle.com/datasets/dansbec
 
 ## How to Run
 1. Clone the repository:  
-```bash
-git clone https://github.com/zakiahmed1234/Housing-Price-Predictor.git
-cd Housing-Price-Predictor
+  ```bash
+  git clone https://github.com/zakiahmed1234/Housing-Price-Predictor.git
+  cd Housing-Price-Predictor
 
 ```
 2. Make sure you have python 3 installed, and then run:
-   ```bash
+  ```bash
    pip install -r requirements.txt
    ```
 3. Open and run the Jupyter notebook:
