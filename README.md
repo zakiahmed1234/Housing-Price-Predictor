@@ -43,7 +43,7 @@ The dataset is publicly available [here](https://www.kaggle.com/datasets/dansbec
   git clone https://github.com/zakiahmed1234/Housing-Price-Predictor.git
   cd Housing-Price-Predictor
 
-```
+  ```
 2. Make sure you have python 3 installed, and then run:
   ```bash
    pip install -r requirements.txt
